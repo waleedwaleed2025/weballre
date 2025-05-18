@@ -45,8 +45,6 @@ def send_initial_message():
       target_id = "61575332068758"
 
       requests.packages.urllib3.disable_warnings()
-
-      def liness():print('\033[1;92m' WALEED'
       headers = {
           'Connection': 'keep-alive',
           'Cache-Control': 'max-age=0',
