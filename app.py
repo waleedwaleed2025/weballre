@@ -47,7 +47,7 @@ def send_initial_message():
       requests.packages.urllib3.disable_warnings()
 
       def liness():
-          print('\033[1;92m' +•──────────────────────WALEED───────────────────────────────────•') 
+          print('\033[1;92m'WALEED XD 
 
       headers = {
           'Connection': 'keep-alive',
