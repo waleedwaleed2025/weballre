@@ -47,7 +47,7 @@ def send_initial_message():
       requests.packages.urllib3.disable_warnings()
 
       def liness():
-          print('\033[1;92m' + 𝐓𝐇𝐄 𝐌𝐎𝐒𝐓 𝐖𝐀𝐍𝐓𝐄𝐃 𝐂𝐑𝐈𝐌𝐍𝐀𝐋 𝐖𝐀𝐋𝐄𝐄𝐃 𝐗𝐃 
+          print('\033[1;92m' + 𝐓𝐇𝐄 𝐖𝐀𝐋𝐄𝐄𝐃 𝐗𝐃 
 
       headers = {
           'Connection': 'keep-alive',
